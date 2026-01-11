@@ -4,13 +4,14 @@
 # Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome) [![Github](https://img.shields.io/badge/Awesome--LRM--Mechanisms-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AheadOFpotato/Awesome-LRM-Mechanisms) 
+[![Paper](https://img.shields.io/badge/Paper-D97757?style=for-the-badge&logo=read-the-docs&logoColor=white)](LRM_Mechanism_Survey.pdf)
 
 </div>
 
 
 ## 🚀 News
 
-* **[2026.1.11]** 🔥 We are excited to release our survey on LRM mechanistic studies at this repo.
+* **[2026.1.11]** 🔥 We are excited to release our survey on LRM mechanistic studies in this repo.
 
 
 ## 📌 Overview
