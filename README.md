@@ -54,7 +54,7 @@ If you find our survey helpful, please consider citing our paper:
 - [Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures](#towards-a-mechanistic-understanding-of-large-reasoning-models-a-survey-of-training-inference-and-failures)
   - [🚀 News](#-news)
   - [📌 Overview](#-overview)
-  - [� Citation](#-citation)
+  - [🔗 Citation](#-citation)
   - [🗂️ Contents](#️-contents)
   - [📄 Paper List](#-paper-list)
     - [Training Dynamics](#training-dynamics)
