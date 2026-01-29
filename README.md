@@ -4,7 +4,7 @@
 # Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures
 
 [![Awesome](https://img.shields.io/badge/Awesome-0066CC?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://github.com/sindresorhus/awesome) [![Github](https://img.shields.io/badge/Awesome--LRM--Mechanisms-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AheadOFpotato/Awesome-LRM-Mechanisms) 
-[![Paper](https://img.shields.io/badge/Paper-D97757?style=for-the-badge&logo=read-the-docs&logoColor=white)](LRM_Mechanism_Survey.pdf)
+ [![Survey](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.19928)
 
 </div>
 
@@ -40,13 +40,14 @@ We organize recent findings into three core dimensions:
 If you find our survey helpful, please consider citing our paper:
 
 ```bibtex
-@misc{hu2026towards,
-  author = {Hu, Yi and Gu, Jiaqi and Wang, Ruxin and Yao, Zijun and Peng, Hao and Wu, Xiaobao and Chen, Jianhui and Zhang, Muhan and Pan, Liangming},
-  title  = {Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures},
-  year   = {2026},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  url = {https://github.com/AheadOFpotato/Awesome-LRM-Mechanisms}
+@misc{hu2026mechanisticunderstandinglargereasoning,
+      title={Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures}, 
+      author={Yi Hu and Jiaqi Gu and Ruxin Wang and Zijun Yao and Hao Peng and Xiaobao Wu and Jianhui Chen and Muhan Zhang and Liangming Pan},
+      year={2026},
+      eprint={2601.19928},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.19928}, 
 }
 ```
 
