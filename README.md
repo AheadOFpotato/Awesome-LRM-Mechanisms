@@ -11,6 +11,7 @@
 
 ## 🚀 News
 
+* **[2026.1.29]** Our survey is now available at: [https://arxiv.org/abs/2601.19928](https://arxiv.org/abs/2601.19928)
 * **[2026.1.11]** 🔥 We are excited to release our survey on LRM mechanistic studies in this repo.
 
 ## 📌 Overview
